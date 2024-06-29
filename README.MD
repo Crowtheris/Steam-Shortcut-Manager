@@ -1,4 +1,4 @@
-# Steam Shortcut Manager
+# Steam Shortcut Manager (Fixed)
 
 This is a cross-platform command-line tool to add non-Steam application shortcuts. You pass a set of options about the program you want to add (name, path, categories, etc.) and in return it'll appear the next time you launch Steam - just as if you had added/configured it from the official Steam GUI. Additionally, it will generate the appid to launch the game through steam through the command line. (e.g. steam://rungameid/###)
 
